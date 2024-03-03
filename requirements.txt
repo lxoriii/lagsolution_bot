@@ -1,0 +1,8 @@
+py-cord
+aiosqlite
+colorama
+asyncio
+requests
+chat-exporter
+Levenshtein
+ezcord
