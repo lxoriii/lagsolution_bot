@@ -1,4 +1,6 @@
-Der Bot ist Stand 06.02.2024
+Der Bot ist Stand 06.02.2024. 
+
+Hier handelt es sich um den Bot von dem Hoster LagSolution.
 
 Der Nutzer verpflichtet sich, den Bot NICHT kommerziell zu nutzen, sondern nur zu privaten zwecken! Für jegliche Veränderungen oder andere Nutzungen ist dies abzuklären mit dem Discord Nutzer lo.rii
 
